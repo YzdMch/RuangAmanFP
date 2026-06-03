@@ -12,8 +12,7 @@
 
     <style name="Theme.App.Splashscreen" parent="Theme.SplashScreen">
         <item name="windowSplashScreenBackground">@color/Blue</item>
-        <item name="windowSplashScreenAnimatedIcon">@drawable/l</item>
-<!--        <item name="windowSplashScreenAnimationDuration">5000</item>-->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo_splash</item>
         <item name="postSplashScreenTheme">@style/Base.Theme.RuangAmanFP</item>
     </style>
 
